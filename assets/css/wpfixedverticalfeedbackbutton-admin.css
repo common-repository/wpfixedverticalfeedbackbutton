@@ -1,0 +1,18 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+/*disable the add new button in free version*/
+.page-title-action {
+    display: none;
+}
+
+#horizontal_input_nuuislider,
+#vertical_input_nuuislider {
+    display: none;
+}
+
+#horizontal_nuuislider,
+#vertical_nuuislider {
+
+}
